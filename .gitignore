@@ -54,6 +54,9 @@ docs/_build/
 # PyBuilder
 target/
 
+.project
+.pydevproject
+.settings/
 
 #
 # Application specific settings
